@@ -102,7 +102,7 @@ The project highlights the impact of **predictive analytics** in banking, enabli
 - `final Output.arff` – ARFF file for Weka  
 - `Saved Models/` – Folder with trained models  
 - `final Outputs.csv` – Predictions from final model  
-- `MIST 6060 Project Presentation.pptx` – Slide deck for presentation
+- `Presentation.pptx` – Slide deck for presentation
 
 ---
 
