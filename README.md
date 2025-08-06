@@ -1,7 +1,6 @@
 # 📊 Bank Customer Churn Prediction
 
 **Authors**: Angel Molekunnel & Pavani Narla  
-**Course**: MIST 6060 – Project  
 **Tool Used**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 
 ## 🧠 Project Objective
@@ -103,6 +102,5 @@ The project highlights the impact of **predictive analytics** in banking, enabli
 
 ---
 
-## 📬 Contact
-For questions or feedback, feel free to reach out via email:
-- Pavani Narla – pavani_narla@student.uml.edu
+For questions or contributions:
+- 🧑‍💻 Open an [Issue](https://github.com/npavani10/Stock-Analysis/issues) for feedback or suggestions
