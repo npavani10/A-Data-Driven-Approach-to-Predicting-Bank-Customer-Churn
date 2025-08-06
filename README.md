@@ -96,15 +96,6 @@ The project highlights the impact of **predictive analytics** in banking, enabli
 
 ---
 
-## 📁 Files
-- `churn_prediction.csv` – Raw dataset  
-- `Cleaned Data.xlsx` – Cleaned dataset  
-- `final Output.arff` – ARFF file for Weka  
-- `Saved Models/` – Folder with trained models  
-- `final Outputs.csv` – Predictions from final model  
-- `Presentation.pptx` – Slide deck for presentation
-
----
 
 ## 💡 Tools & Libraries
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/) – Data preprocessing, modeling, and evaluation  
