@@ -103,4 +103,4 @@ The project highlights the impact of **predictive analytics** in banking, enabli
 ---
 
 For questions or contributions:
-- 🧑‍💻 Open an [Issue](https://github.com/npavani10/Stock-Analysis/issues) for feedback or suggestions
+- 🧑‍💻 Open an [Issue](https://github.com/npavani10/A-Data-Driven-Approach-to-Predicting-Bank-Customer-Churn/issues) for feedback or suggestions
